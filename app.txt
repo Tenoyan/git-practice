@@ -1,7 +1,5 @@
 
-"Version 2 from master branch" 
-"Version 3 from feature branch" 
+Change from conflict-B
 
-GitHub Desktop test line.
 
 
