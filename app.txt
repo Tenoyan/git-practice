@@ -1,6 +1,6 @@
 Change from conflict-A
 
-Change from conflict-B
+Change from conflict-B 1
 
 
 
